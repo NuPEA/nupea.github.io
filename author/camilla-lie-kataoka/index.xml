@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camilla Lie Kataoka | NuPEA</title>
+    <link>/author/camilla-lie-kataoka/</link>
+      <atom:link href="/author/camilla-lie-kataoka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camilla Lie Kataoka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language>
+    <image>
+      <url>/media/nupea.jpg</url>
+      <title>Camilla Lie Kataoka</title>
+      <link>/author/camilla-lie-kataoka/</link>
+    </image>
+    
+  </channel>
+</rss>

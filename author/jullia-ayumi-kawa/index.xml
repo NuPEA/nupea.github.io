@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jullia Ayumi Kawa | NuPEA</title>
+    <link>/author/jullia-ayumi-kawa/</link>
+      <atom:link href="/author/jullia-ayumi-kawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jullia Ayumi Kawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language>
+    <image>
+      <url>/media/nupea.jpg</url>
+      <title>Jullia Ayumi Kawa</title>
+      <link>/author/jullia-ayumi-kawa/</link>
+    </image>
+    
+  </channel>
+</rss>

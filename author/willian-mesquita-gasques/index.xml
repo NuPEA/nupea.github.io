@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willian Mesquita Gasques | NuPEA</title>
+    <link>/author/willian-mesquita-gasques/</link>
+      <atom:link href="/author/willian-mesquita-gasques/index.xml" rel="self" type="application/rss+xml" />
+    <description>Willian Mesquita Gasques</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language>
+    <image>
+      <url>/media/nupea.jpg</url>
+      <title>Willian Mesquita Gasques</title>
+      <link>/author/willian-mesquita-gasques/</link>
+    </image>
+    
+  </channel>
+</rss>
